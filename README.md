@@ -1,7 +1,5 @@
 # WASTE-MANAGEMENT-SYSTEM-GRP3
 
-# Waste Management System
-
 ## Overview
 
 The Waste Management System (WMS) is a comprehensive solution designed to streamline and optimize waste collection and management operations for government-run municipalities. The system is tailored to meet the needs of various user roles including municipal personnel, residents, admin, and waste management companies. It provides robust features such as schedule management, notifications, and role-based interfaces to ensure efficient and effective waste management practices.
